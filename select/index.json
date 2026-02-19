@@ -1,112 +1,80 @@
 {
   "version": 1,
-  "base_track": "ただ",
+  "base_track": "あかり",
   "base_artist": "My Hair is Bad",
-  "createdAt": "2025-12-16T01:40:26.968257Z",
+  "createdAt": "2026-02-19T13:58:43.995744Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "ただ・愛のためにだけ",
-      "artist": "Miyuki Nakajima",
+      "title": "あかり from HERE (clammbon side)",
+      "artist": "clammbon",
       "has_synced": false,
-      "path": "select/01_ただ・愛のためにだけ_Miyuki_Nakajima.txt"
+      "path": "select/01_あかり_from_HERE_(clammbon_side)_clammbon.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "ただ・愛のためにだけ",
-      "artist": "中島みゆき",
+      "title": "Akari from HERE (clammbon side) [あかり from HERE (clammbon side)]",
+      "artist": "clammbon",
       "has_synced": false,
-      "path": "select/02_ただ・愛のためにだけ_中島みゆき.txt"
+      "path": "select/02_Akari_from_HERE_(clammbon_side)_[あかり_from_HERE_(clammbon_side)]_clammbon.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "ただ､ありがとう",
-      "artist": "MONKEY MAJIK",
+      "title": "アイドル活動! ～いちご & あかり Ver.～",
+      "artist": "わか・るか from STAR☆ANIS",
       "has_synced": true,
-      "path": "select/03_ただ、ありがとう_MONKEY_MAJIK.lrc"
+      "path": "select/03_アイドル活動!_~いちご_&_あかり_Ver.~_わか・るか_from_STAR☆ANIS.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "ただ、ありがとう",
-      "artist": "Monkey Majik",
-      "has_synced": false,
-      "path": "select/04_ただ、ありがとう_Monkey_Majik.txt"
+      "title": "Let's アイカツ! ～いちご & 美月 & あかり Ver.～",
+      "artist": "わか・りすこ・るか from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/04_Let's_アイカツ!_~いちご_&_美月_&_あかり_Ver.~_わか・りすこ・るか_from_STAR☆ANIS.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "ただ、透明",
-      "artist": "ユノギ シロ",
+      "title": "あかり",
+      "artist": "MONKEY MAJIK",
       "has_synced": true,
-      "path": "select/05_ただ、透明_ユノギ_シロ.lrc"
+      "path": "select/05_あかり_MONKEY_MAJIK.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "ただ - Tada",
-      "artist": "CreepHyp",
+      "title": "あかり",
+      "artist": "Monkey Majik",
       "has_synced": true,
-      "path": "select/06_ただ_-_Tada_CreepHyp.lrc"
+      "path": "select/06_あかり_Monkey_Majik.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "ただ、まだ、私。 -tada, mada, watashi.- - Radio Edit Ver.",
-      "artist": "sukekiyo",
+      "title": "オリジナルスター☆彡 ～いちご & あかり Ver.～",
+      "artist": "わか・るか from STAR☆ANIS",
       "has_synced": true,
-      "path": "select/07_ただ、まだ、私。_-tada,_mada,_watashi.-_-_Radio_Edit_Ver._sukekiyo.lrc"
+      "path": "select/07_オリジナルスター☆彡_~いちご_&_あかり_Ver.~_わか・るか_from_STAR☆ANIS.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "ただ…逢いたくて",
-      "artist": "EXILE",
-      "has_synced": true,
-      "path": "select/08_ただ...逢いたくて_EXILE.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "ただ、まだ、私。",
-      "artist": "sukekiyo",
-      "has_synced": true,
-      "path": "select/09_ただ、まだ、私。_sukekiyo.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "ただ…逢いたくて",
-      "artist": "Crystal Kay",
-      "has_synced": true,
-      "path": "select/10_ただ...逢いたくて_Crystal_Kay.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "ただ、まだ、私。",
-      "artist": "sukekiyo",
-      "has_synced": true,
-      "path": "select/11_ただ、まだ、私。_sukekiyo.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "ただ･･･逢いたくて",
-      "artist": "EXILE",
-      "has_synced": true,
-      "path": "select/12_ただ・・・逢いたくて_EXILE.lrc"
+      "title": "SHINING LINE* ～いちご & あおい & 蘭 & あかり Ver.～",
+      "artist": "わか・ふうり・ゆな・るか from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/08_SHINING_LINE__~いちご_&_あおい_&_蘭_&_あかり_Ver.~_わか・ふうり・ゆな・るか_from_STAR☆ANIS.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ただ",
+      "title": "あかり",
       "artist": "My Hair is Bad",
       "has_synced": false,
-      "path": "select/pl_01_ただ_My_Hair_is_Bad.txt"
+      "path": "select/pl_01_あかり_My_Hair_is_Bad.txt"
     }
   ]
 }
