@@ -1,80 +1,24 @@
 {
   "version": 1,
-  "base_track": "あかり",
+  "base_track": "仕事が終わったら",
   "base_artist": "My Hair is Bad",
-  "createdAt": "2026-02-19T14:02:13.090151Z",
+  "createdAt": "2026-02-21T15:57:26.304649Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "あかり from HERE (clammbon side)",
-      "artist": "clammbon",
-      "has_synced": false,
-      "path": "select/01_あかり_from_HERE_(clammbon_side)_clammbon.txt"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "Akari from HERE (clammbon side) [あかり from HERE (clammbon side)]",
-      "artist": "clammbon",
-      "has_synced": false,
-      "path": "select/02_Akari_from_HERE_(clammbon_side)_[あかり_from_HERE_(clammbon_side)]_clammbon.txt"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "アイドル活動! ～いちご & あかり Ver.～",
-      "artist": "わか・るか from STAR☆ANIS",
+      "title": "仕事が終わったら",
+      "artist": "My Hair Is Bad",
       "has_synced": true,
-      "path": "select/03_アイドル活動!_~いちご_&_あかり_Ver.~_わか・るか_from_STAR☆ANIS.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "Let's アイカツ! ～いちご & 美月 & あかり Ver.～",
-      "artist": "わか・りすこ・るか from STAR☆ANIS",
-      "has_synced": true,
-      "path": "select/04_Let's_アイカツ!_~いちご_&_美月_&_あかり_Ver.~_わか・りすこ・るか_from_STAR☆ANIS.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "あかり",
-      "artist": "MONKEY MAJIK",
-      "has_synced": true,
-      "path": "select/05_あかり_MONKEY_MAJIK.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "あかり",
-      "artist": "Monkey Majik",
-      "has_synced": true,
-      "path": "select/06_あかり_Monkey_Majik.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "オリジナルスター☆彡 ～いちご & あかり Ver.～",
-      "artist": "わか・るか from STAR☆ANIS",
-      "has_synced": true,
-      "path": "select/07_オリジナルスター☆彡_~いちご_&_あかり_Ver.~_わか・るか_from_STAR☆ANIS.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "SHINING LINE* ～いちご & あおい & 蘭 & あかり Ver.～",
-      "artist": "わか・ふうり・ゆな・るか from STAR☆ANIS",
-      "has_synced": false,
-      "path": "select/08_SHINING_LINE__~いちご_&_あおい_&_蘭_&_あかり_Ver.~_わか・ふうり・ゆな・るか_from_STAR☆ANIS.txt"
+      "path": "select/01_仕事が終わったら_My_Hair_Is_Bad.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "あかり",
+      "title": "仕事が終わったら",
       "artist": "My Hair is Bad",
       "has_synced": false,
-      "path": "select/pl_01_あかり_My_Hair_is_Bad.txt"
+      "path": "select/pl_01_仕事が終わったら_My_Hair_is_Bad.txt"
     }
   ]
 }
