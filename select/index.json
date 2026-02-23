@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "仕事が終わったら",
+  "base_track": "鳩かもめ",
   "base_artist": "My Hair is Bad",
-  "createdAt": "2026-02-21T15:57:26.304649Z",
+  "createdAt": "2026-02-23T16:11:17.528538Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "仕事が終わったら",
-      "artist": "My Hair Is Bad",
-      "has_synced": true,
-      "path": "select/01_仕事が終わったら_My_Hair_Is_Bad.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "仕事が終わったら",
+      "title": "鳩かもめ",
       "artist": "My Hair is Bad",
       "has_synced": false,
-      "path": "select/pl_01_仕事が終わったら_My_Hair_is_Bad.txt"
+      "path": "select/pl_01_鳩かもめ_My_Hair_is_Bad.txt"
     }
   ]
 }
