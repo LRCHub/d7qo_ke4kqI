@@ -1,40 +1,81 @@
 {
   "version": 1,
-  "base_track": "虜",
+  "base_track": "いいんですか?",
   "base_artist": "My Hair is Bad",
-  "createdAt": "2026-03-27T03:24:15.649241Z",
+  "createdAt": "2026-03-28T23:42:15.947932Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "虜",
-      "artist": "Mr.Children",
+      "title": "いいんですか?",
+      "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/01_虜_Mr.Children.lrc"
+      "path": "select/01_いいんですか_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "虜 - Toriko",
-      "artist": "My Hair Is Bad",
+      "title": "いいんですか? - Iindesuka?",
+      "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/02_虜_-_Toriko_My_Hair_Is_Bad.lrc"
+      "path": "select/02_いいんですか__-_Iindesuka_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "虜",
+      "title": "いいんですか? (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5])\u001f「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_いいんですか__(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5])_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いいんですか? - BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_いいんですか__-_BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いいんですか?",
       "artist": "My Hair is Bad",
       "has_synced": true,
-      "path": "select/03_虜_My_Hair_is_Bad.lrc"
+      "path": "select/05_いいんですか_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いいんですか?)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_いいんですか_)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4.耳舐め手コキで射精させれば…いいんですか？",
+      "artist": "うこんちゃん☆かんぱにぃ",
+      "has_synced": true,
+      "path": "select/07_4.耳舐め手コキで射精させれば...いいんですか_うこんちゃん☆かんぱにぃ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "虜",
+      "title": "いいんですか?",
       "artist": "My Hair is Bad",
       "has_synced": false,
-      "path": "select/pl_01_虜_My_Hair_is_Bad.txt"
+      "path": "select/pl_01_いいんですか_My_Hair_is_Bad.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "いいんですか?",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/localdb_01_いいんですか_My_Hair_is_Bad.lrc",
+      "repo_name": "eUM9cEZrTh4"
     }
   ]
 }
